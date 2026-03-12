@@ -1,2 +1,2 @@
 # Contractcraft
-Ai Freelancer Content Generator 
+Ai Freelancer Contract Generator 
